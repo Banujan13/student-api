@@ -1,0 +1,41 @@
+## [Visual Studio]
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Vv]log/
+
+## [Visual Studio Code]
+.vscode/
+
+## [.NET Core]
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## [PostgreSQL / Docker]
+.env
+postgres_data/
+
+## [macOS]
+.DS_Store
+
+## [Rider / JetBrains]
+.idea/
+*.sln.iml
